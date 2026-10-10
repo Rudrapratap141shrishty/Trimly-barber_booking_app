@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Secrets
+.env
+*.pem
+*.key
+
+# Database
+*.db
+*.sqlite3
+
+# Node
+node_modules/
+frontend/dist/
+
+# Editors
+.vscode/
+.idea/
+
+# Logs
+*.log
